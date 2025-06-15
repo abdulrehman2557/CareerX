@@ -1,0 +1,11 @@
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\bin\Debug\net8.0\ClassLibraryEntities.deps.json
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\bin\Debug\net8.0\ClassLibraryEntities.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\bin\Debug\net8.0\ClassLibraryEntities.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.AssemblyInfoInputs.cache
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.AssemblyInfo.cs
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.csproj.CoreCompileInputs.cache
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\refint\ClassLibraryEntities.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ClassLibraryEntities.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryEntities\obj\Debug\net8.0\ref\ClassLibraryEntities.dll
