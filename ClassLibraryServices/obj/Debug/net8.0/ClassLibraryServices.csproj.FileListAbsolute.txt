@@ -1,0 +1,35 @@
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.deps.json
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryEntities.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryInstitutesDAL.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryEntities.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryInstitutesDAL.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.csproj.AssemblyReference.cache
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.AssemblyInfoInputs.cache
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.AssemblyInfo.cs
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.csproj.CoreCompileInputs.cache
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLib.9A4189AD.Up2Date
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\refint\ClassLibraryServices.dll
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.pdb
+E:\Internship\Newbie\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ref\ClassLibraryServices.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.deps.json
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryServices.pdb
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryEntities.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryInstitutesDAL.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryEntities.pdb
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\bin\Debug\net8.0\ClassLibraryInstitutesDAL.pdb
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.csproj.AssemblyReference.cache
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.AssemblyInfoInputs.cache
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.AssemblyInfo.cs
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.csproj.CoreCompileInputs.cache
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.sourcelink.json
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLib.9A4189AD.Up2Date
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\refint\ClassLibraryServices.dll
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ClassLibraryServices.pdb
+D:\Faheer code\InstitutesPortal\InstitutesPortal\ClassLibraryServices\obj\Debug\net8.0\ref\ClassLibraryServices.dll
